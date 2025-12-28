@@ -1,0 +1,8 @@
+{
+  "name": "AI Rick Chatbot",
+  "description": "A low-latency AI chatbot powered by Gemini, designed for fast and engaging conversations. Meet AI Rick, your quirky and helpful digital companion.",
+  "requestFramePermissions": [
+    "microphone",
+    "camera"
+  ]
+}
