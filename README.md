@@ -24,4 +24,4 @@ View your app in AI Studio: https://ai.studio/apps/drive/1xPmEYZ_3pbtw-LBDyONVBX
 Cuando se abra Google AI Studio, no entres en “Charlar”. Mantente siempre en la pestaña “Avance” para que la aplicación funcione correctamente.
 
 👉 Acceso directo a AI RICK (pantalla completa):  
-https://ai.studio/apps/drive/1xPmEYZ3pbtw-LBDyONVBXuLNph3i1r?fullscreenApplet=true
+https://ai.studio/apps/drive/1xPmEYZ_3pbtw-LBDyONVBXuLNph3i1_r?fullscreenApplet=true
